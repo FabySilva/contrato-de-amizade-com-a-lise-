@@ -1,0 +1,38 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 31px;
+    font-style: italic;
+    font-family: Haettenschweiler;
+}
+body{
+    background-color: #e7d6e6;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+/*.item{
+    background-color: rgb(88, 155, 214);
+}*/
+.grid img{
+    border-radius: 8px;
+    border: 2px solid #570e57;
+}
+.jg{
+    border-radius: 20px;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    background-color: #161164;
+}
+h2{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium' ;
+}
+p{
+    color: rgb(0, 0, 0);
+}
+#name{
+    border-style: double;
+}
