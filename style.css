@@ -20,11 +20,11 @@ body{
     border: 2px solid #570e57;
 }
 .jg{
-    border-radius: 20px;
-    padding: 30px;
-    margin: 25px;
-    width: 310px;
-    background-color: #161164;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    width: 140px;
+    background-color: #daa1f0;
 }
 h2{
     font-size: 20px;
